@@ -7,41 +7,44 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Woravut Phuthong
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: warravutp@gmail.com
+    phone: 087 556 9651
+    website: aboutme.google.com #do not add http://
+    linkedin: woravut
+    github: sarjonator
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@sarjonator'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: codewars.com/users/kenjiro
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Thai
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Fair
 
     interests:
-      - item: Climbing
+      - item: Reading Book and Medium Blog
+        link: medium.com/@sarjonator
+
+      - item: Learning Technology Trends
         link:
 
-      - item: Snowboarding
+      - item: DevOps and Infrastructure
         link:
-
-      - item: Cooking
+        
+      - item: Movie, Music, Gaming
+        link:
+      
+      - item: Running, Swimming, Badmintun
         link:
 
 career-profile:
@@ -54,9 +57,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Computer Science
+      university: Naresuan University
+      time: 2003 - 2007
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,9 +68,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Science Mathematics
+      university: Mongkol Wittaya School
+      time: 1998 - 2002
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +80,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Assistant Manager
+      time: 2019 - Present
+      company: MONO Broadcast, Nonthaburi
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +95,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Programmer, Supervisor
+      time: 2012 - 2018
+      company: MONO Infosystems, Nonthaburi
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -103,9 +106,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Web Developer
+      time: 2008 - 2011
+      company: MONO Technology, Nonthaburi
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -117,72 +120,51 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Web Development, DevOps Tools and Monitoring Report.
     assignments:
-      - title: Velocity
+      - title: Proxy-pass
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Proxy Server Streaming with Jetty Service &amp; Nginx."
 
-      - title: DevStudio
+      - title: Robotframework
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Monitor Test Case &amp; Screen Capture."
 
-      - title: Tempo
+      - title: CRMs
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Create responsive website template designed to help staf promote their products or services and to keep members &amp; invite"
 
-      - title: Atom
+      - title: TopUp
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Soap API Service for startups/developers to market their website and mobile apps."
 
-      - title: Delta
+      - title: Callcenter
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Create responsive website template designed to help staf &amp; agent their products or services for campaign."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP & Framework
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Mysql and NoSql
         level: 85%
+        
+      - name: Git, Github, Gitlab, CI/CD
+        level: 70%
+        
+      - name: Docker, Vagrant, Ansible, K8S
+        level: 60%
 
-      - name: Sketch & Photoshop
+      - name: MacOSX, Ubuntu, Debian, CentOS,
         level: 60%
 
 footer: >
