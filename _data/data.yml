@@ -83,7 +83,7 @@ experiences:
     - role: Assistant Manager
       time: 2019 - Present
       company: MONO Broadcast, Nonthaburi
-      details: #|
+      details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -98,7 +98,7 @@ experiences:
     - role: Senior Programmer, Supervisor
       time: 2012 - 2018
       company: MONO Infosystems, Nonthaburi
-      details: #|
+      details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -109,7 +109,7 @@ experiences:
     - role: Web Developer
       time: 2008 - 2011
       company: MONO Technology, Nonthaburi
-      details: #|
+      details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
