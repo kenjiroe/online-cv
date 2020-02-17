@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: warravutp@gmail.com
     phone: 087 556 9651
-    website: aboutme.google.com #do not add http://
+    website: sarjonator.github.io/online-cv/cvp.html #aboutme.google.com #do not add http://
     linkedin: woravut
     github: sarjonator
     gitlab:
