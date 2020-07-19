@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Woravut Phuthong
+    name: Kenjiro Sarjonator
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: warravutp@gmail.com
-    phone: 087 556 9651
-    website: sarjonator.github.io/online-cv/cvp.html #aboutme.google.com #do not add http://
+    email: sarjonator@gmail.com
+    phone: 
+    website: kenjiroe.github.io/online-cv/cvp.html #aboutme.google.com #do not add http://
     linkedin: woravut
-    github: sarjonator
-    gitlab:
+    github: kenjiroe
+    gitlab: kenjiro
     bitbucket:
     twitter: '@sarjonator'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -50,78 +50,52 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Developer Technology and Application support.
 education:
     - degree: Computer Science
       university: Naresuan University
       time: 2003 - 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        CS25.
+          - Certificate of second software project
+          - Dormitory attendant of Apartment
     - degree: Science Mathematics
       university: Mongkol Wittaya School
       time: 1998 - 2002
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        School temple of Buddha.
+          - Master-class theologian
 experiences:
+    - role: Application Support, DevOps
+      time: 2020 - Present
+      company: KBTG, Nonthaburi
+      details: |
+        Research Technology, Contact Support.
+          - EAI
+          - DevOps
     - role: Assistant Manager
       time: 2019 - Present
       company: MONO Broadcast, Nonthaburi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Web Developer Technology and Infra Structure.
+          - Streaming Server
+          - Monitor System
     - role: Senior Programmer, Supervisor
-      time: 2012 - 2018
+      time: 2008 - 2018
       company: MONO Infosystems, Nonthaburi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: Web Developer
-      time: 2008 - 2011
-      company: MONO Technology, Nonthaburi
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Customer Support System and Services SMS.
+          - Call Center System
+          - CRMs [Topup,Reward,Loyalty,Issue]
 projects:
     title: Projects
     intro: >
-      Web Development, DevOps Tools and Monitoring Report.
+      Web Development Technology, DevOps Tools and Monitoring Report etc.
     assignments:
+      - title: Automate
+        link: "#hook"
+        tagline: "Ansible, Docker, Gitlab CI/CD &amp; GCP."
+        
       - title: Proxy-pass
         link: "#hook"
         tagline: "Proxy Server Streaming with Jetty Service &amp; Nginx."
@@ -147,16 +121,16 @@ skills:
 
     toolset:
       - name: PHP & Framework
-        level: 90%
+        level: 80%
 
       - name: Javascript & jQuery
-        level: 90%
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
 
       - name: MySql and NoSql
-        level: 85%
+        level: 80%
         
       - name: Git, Github, Gitlab
         level: 70%
@@ -165,7 +139,7 @@ skills:
         level: 60%
 
       - name: MacOSX, Ubuntu, Debian, CentOS,
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
